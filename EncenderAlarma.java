@@ -8,7 +8,7 @@ public class EncenderAlarma implements Comando {
     }
 
     public void ejecutar() {
-        System.out.println("Ecendiendo alarma...");
+        System.out.println("Encendiendo alarma...");
         alarma.encender();
     }
 }
