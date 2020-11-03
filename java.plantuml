@@ -4,8 +4,8 @@ title __JAVA's Class Diagram__\n
 
   package  {
     class AlarmaMovimiento {
-        ~ encender()
-        ~ apagar()
+        + encender()
+        + apagar()
     }
   }
   
